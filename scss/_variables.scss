@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Merriweather&display=swap');
+
+// FONTS
+$font_main: 'Merriweather', serif;
+$font_highligh: 'Bree Serif', serif;
+
+// COLORS
+$col_red: #D14348;
+$col_blue: #0076A4;
+$col_darkblue: #022933;
+$col_yellow: #fee838;
+$col_offwhite: #EEE8D6;
+
+// COLOR THEMES
+$col_main: $col_darkblue;
+$col_background: $col_offwhite;
+
+$col_headlines: $col_red;
+$col_item-border: $col_red;
+$col_media-head: $col_blue;
+
+$col_btn-default: $col_main;
+$col_btn-cool: $col_blue;
+$col_btn-hot: $col_red;
