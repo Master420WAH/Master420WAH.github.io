@@ -1,8 +1,0 @@
-@mixin backImage($image, $height: 100vh) {
-	background: url("../img/" + $image);
-	//background: url("../img/#($image)");
-	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: cover;
-	height: $height;
-}

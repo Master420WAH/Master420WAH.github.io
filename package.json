@@ -1,17 +1,14 @@
 {
-	"name": "sass",
-	"version": "1.0.0",
-	"description": "",
-	"main": "index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1",
-		"sass:watch": "sass --watch scss/:styles",
-		"sass:watchcompressed": "sass --watch scss/:styles --style compressed"
-	},
-	"keywords": [],
-	"author": "",
-	"license": "ISC",
-	"devDependencies": {
-		"sass": "^1.70.0"
-	}
+  "name": "vesteee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass:watch": "sass --watch scss/:styles",
+    "sass:watchcompressed": "sass --watch scss/:styles --style compressed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
